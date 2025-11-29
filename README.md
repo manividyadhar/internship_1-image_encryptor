@@ -6,22 +6,6 @@
 
 A powerful yet simple image encryption tool using pixel manipulation techniques. Encrypt and decrypt images using various algorithms including XOR, Pixel Swap, Mathematical Operations, and Channel Shuffling.
 
-![Project Banner](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=Image+Encryption+Tool)
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Encryption Methods](#encryption-methods)
-- [Project Structure](#project-structure)
-- [Technology Stack](#technology-stack)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## 🎯 Overview
 
 This project demonstrates how images can be secured through pixel-level manipulation. It provides an interactive command-line interface for encrypting and decrypting images using custom encryption keys and multiple encryption algorithms.
@@ -52,7 +36,7 @@ This project demonstrates how images can be secured through pixel-level manipula
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/image-encryption-tool.git
+git clone https://github.com/Bhaveshpooniwala1/PRODIGY_CS_02.git
 cd image-encryption-tool
 ```
 
