@@ -1,4 +1,7 @@
 # 🔐 Image Encryption Tool
+[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Project](https://img.shields.io/badge/project-Cybersecurity%20Internship-orange.svg)](https://github.com/manividyadhar)
 
 A Python-based image encryption and decryption tool using pixel manipulation techniques. This project demonstrates how digital images can be securely encrypted and restored using multiple algorithms, reinforcing core cybersecurity and image processing concepts.
 
