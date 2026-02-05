@@ -13,7 +13,7 @@ This project secures images by manipulating pixel values at the RGB level. It su
 
 **Created as part of:** Cybersecurity Internship Project  
 **Author:** Manividyadhar  
-**Date:** November 2025  
+**Date:** feb 2026 
 
 ---
 
