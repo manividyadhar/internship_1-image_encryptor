@@ -13,7 +13,7 @@ This project secures images by manipulating pixel values at the RGB level. It su
 
 **Created as part of:** Cybersecurity Internship Project  
 **Author:** Manividyadhar  
-**Date:** feb 2026 
+
 
 ---
 
@@ -51,7 +51,7 @@ This project secures images by manipulating pixel values at the RGB level. It su
 ### Steps
 
 Clone the repository:
-Navigate into the project directory:
+Navigate into the project directory: https://github.com/manividyadhar/internship_1-image_encryptor.git
 
 cd image-encryption-tool
 
